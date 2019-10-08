@@ -2,6 +2,6 @@
     "require": {
         "league/flysystem": "^1.0",
         "league/flysystem-ziparchive": "^1.0",
-        "symfony/finder": "3.*"
+        "symfony/finder": "4.*"
     }
 }
